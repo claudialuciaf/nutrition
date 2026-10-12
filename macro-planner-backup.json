@@ -1,0 +1,337 @@
+{
+  "version": "1.4",
+  "exportedAt": "2026-10-12T20:40:04.027Z",
+  "ingredients": [
+    {
+      "id": "egg",
+      "name": "Huevo",
+      "mode": "unit",
+      "serv": "1 unidad",
+      "k": 72,
+      "p": 6.3,
+      "c": 0.4,
+      "f": 4.8,
+      "fi": 0
+    },
+    {
+      "id": "tradipan100",
+      "name": "Tradipan pan rebanado alto en proteínas",
+      "mode": "unit",
+      "serv": "1 rebanada (~40 g)",
+      "k": 106,
+      "p": 6.6,
+      "c": 12,
+      "f": 3,
+      "fi": 2.1
+    },
+    {
+      "id": "avocado",
+      "name": "Aguacate",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 160,
+      "p": 2,
+      "c": 8.5,
+      "f": 14.7,
+      "fi": 6.7
+    },
+    {
+      "id": "blue",
+      "name": "Blueberries",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 57,
+      "p": 0.7,
+      "c": 14.5,
+      "f": 0.3,
+      "fi": 2.4
+    },
+    {
+      "id": "banana",
+      "name": "Banano",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 89,
+      "p": 1.1,
+      "c": 22.8,
+      "f": 0.3,
+      "fi": 2.6
+    },
+    {
+      "id": "peach",
+      "name": "Durazno",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 39,
+      "p": 0.9,
+      "c": 9.5,
+      "f": 0.3,
+      "fi": 1.5
+    },
+    {
+      "id": "cheese",
+      "name": "Queso light",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 225,
+      "p": 20,
+      "c": 10,
+      "f": 11.5,
+      "fi": 0
+    },
+    {
+      "id": "jam",
+      "name": "Mermelada light",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 100,
+      "p": 0,
+      "c": 26.7,
+      "f": 0,
+      "fi": 0
+    },
+    {
+      "id": "oatmilk",
+      "name": "Bebida de avena UHT (etiqueta usuario)",
+      "mode": "ml",
+      "serv": "100 ml",
+      "k": 44,
+      "p": 0.8,
+      "c": 6.4,
+      "f": 1.5,
+      "fi": 0.7
+    },
+    {
+      "id": "yogur_proteico_consum",
+      "name": "Yogur proteico Consum Natural 0%",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 56,
+      "p": 10,
+      "c": 4,
+      "f": 0,
+      "fi": 0
+    },
+    {
+      "id": "eggwhite",
+      "name": "Claras de huevo",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 52,
+      "p": 10.9,
+      "c": 0.7,
+      "f": 0.2,
+      "fi": 0
+    },
+    {
+      "id": "proteinmilk",
+      "name": "Leche +Proteínas",
+      "mode": "ml",
+      "serv": "100 ml",
+      "k": 50,
+      "p": 5,
+      "c": 4.8,
+      "f": 1.2,
+      "fi": 0
+    },
+    {
+      "id": "chia_generic",
+      "name": "Chía (genérica, provisional)",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 486,
+      "p": 16.5,
+      "c": 42.1,
+      "f": 30.7,
+      "fi": 34.4
+    },
+    {
+      "id": "chicken",
+      "name": "Pollo cocido",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 165,
+      "p": 31,
+      "c": 0,
+      "f": 3.6,
+      "fi": 0
+    },
+    {
+      "id": "tuna_consum",
+      "name": "Atún Consum",
+      "mode": "unit",
+      "serv": "1 lata (56 g escurridos)",
+      "k": 57.7,
+      "p": 13.4,
+      "c": 0.5,
+      "f": 0.2,
+      "fi": 0
+    },
+    {
+      "id": "rice",
+      "name": "Arroz cocido",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 130,
+      "p": 2.7,
+      "c": 28,
+      "f": 0.3,
+      "fi": 0.4
+    },
+    {
+      "id": "pasta_gallo_protein",
+      "name": "Pasta Gallo Proteínas (seca)",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 350,
+      "p": 17,
+      "c": 64,
+      "f": 2,
+      "fi": 0
+    },
+    {
+      "id": "pesto_barilla",
+      "name": "Pesto Barilla",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 472,
+      "p": 4.7,
+      "c": 9.8,
+      "f": 46,
+      "fi": 5
+    },
+    {
+      "id": "beef",
+      "name": "Carne molida cocida",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 220,
+      "p": 26,
+      "c": 0,
+      "f": 12,
+      "fi": 0
+    },
+    {
+      "id": "sweetpotato",
+      "name": "Camote cocido",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 90,
+      "p": 2,
+      "c": 21,
+      "f": 0.2,
+      "fi": 3.3
+    },
+    {
+      "id": "honey",
+      "name": "Miel",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 304,
+      "p": 0,
+      "c": 82.4,
+      "f": 0,
+      "fi": 0
+    },
+    {
+      "id": "veg",
+      "name": "Verduras mixtas",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 30,
+      "p": 1.5,
+      "c": 6,
+      "f": 0.3,
+      "fi": 2.5
+    },
+    {
+      "id": "i1791837249835",
+      "name": "mozarella mercadona",
+      "mode": "unit",
+      "serv": "1 unidad",
+      "k": 191,
+      "p": 21,
+      "c": 1.3,
+      "f": 11,
+      "fi": 0
+    },
+    {
+      "id": "i1791837494155",
+      "name": "Harina PAN",
+      "mode": "grams",
+      "serv": "100 g",
+      "k": 355,
+      "p": 7.3,
+      "c": 73.5,
+      "f": 1.8,
+      "fi": 5.1
+    }
+  ],
+  "savedMeals": [
+    {
+      "id": "meal_1791837559374",
+      "name": "Arepas",
+      "items": [
+        {
+          "id": "i1791837249835",
+          "name": "mozarella mercadona",
+          "serv": "1 unidad",
+          "mode": "unit",
+          "qty": 1,
+          "displayAmount": "1 × 1 unidad",
+          "k": 191,
+          "p": 21,
+          "c": 1.3,
+          "f": 11,
+          "fi": 0
+        },
+        {
+          "id": "i1791837494155",
+          "name": "Harina PAN",
+          "serv": "100 g",
+          "mode": "grams",
+          "qty": 50,
+          "displayAmount": "50 g",
+          "k": 177.5,
+          "p": 3.65,
+          "c": 36.75,
+          "f": 0.9,
+          "fi": 2.55
+        },
+        {
+          "id": "avocado",
+          "name": "Aguacate",
+          "serv": "100 g",
+          "mode": "grams",
+          "qty": 50,
+          "displayAmount": "50 g",
+          "k": 80,
+          "p": 1,
+          "c": 4.25,
+          "f": 7.35,
+          "fi": 3.35
+        }
+      ]
+    }
+  ],
+  "targets": {
+    "k": 1500,
+    "p": 125,
+    "c": 138,
+    "f": 50,
+    "fi": 25
+  },
+  "budgets": {
+    "breakfast": 500,
+    "lunch": 400,
+    "snack": 200,
+    "dinner": 400
+  },
+  "currentDateKey": "2026-10-12",
+  "day": {
+    "breakfast": [],
+    "lunch": [],
+    "snack": [],
+    "dinner": []
+  }
+}
